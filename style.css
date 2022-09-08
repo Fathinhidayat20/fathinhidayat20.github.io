@@ -1,0 +1,96 @@
+body {
+    font-family: "Rockwell", "Arial Narrow", Arial, sans-serif;
+    background-image: url('images/hh.jpg');
+    background-size: cover;
+    background-attachment: fixed; 
+    color: lightgreen;
+    text-shadow: white;
+}
+
+h1{
+    color: blue;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+h1:hover{
+    color: red;
+    letter-spacing: 4px;
+}
+
+img{
+    width: 4cm;
+    border-top: 70%;
+    box-shadow: 2px 2px 4px gray;
+    padding: 5px;
+    background: white;
+    margin: 15px;
+    transition: 0.2s;
+    opacity: 93%;
+    width: 6cm;
+    height: 6cm;
+    object-fit: cover;
+}
+
+img:hover{
+    transform: scale(1.2);
+    opacity: 100%;
+    box-shadow: 1px 1px 6px red;
+}
+
+table{
+    border-collapse: collapse;
+    width: 90%;
+}
+
+td, th{
+    border: 1px solid #fc00ff;
+    padding: 8px;
+
+
+}
+
+td:first-child{
+    text-align: center;
+
+
+}
+
+.judul{
+    text-align: center;
+    font-size: 30px;
+}
+
+.judul-tabel{
+    background-color: blue;
+    color: #B22222;
+}
+
+.top1{
+    text-align: center;
+    color: blue;
+}
+
+.tombol{
+    background-color: 	#1E90FF;
+    color: #696969;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 10px;
+    text-decoration: none;
+}
+
+.tombol:hover{
+    background-color:#B22222;
+}
+
+a{
+    color: blue;
+    text-decoration: none;
+}
+
+td:hover{
+    background-color: #e84dff;
+}
