@@ -1,0 +1,103 @@
+ html{
+    height: 100%;
+}
+
+select:hover {
+  background-color: blanchedalmond;
+}
+
+.image-headers {
+  width: 100%;
+  height: auto;
+  background-color: red;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.image-headers img {
+  width: 100%;
+  height: auto;
+}
+
+option:hover {
+  background-color: blanchedalmond;
+}
+
+input:hover {
+  background-color: blanchedalmond;
+}
+
+textarea{
+  resize: none;
+}
+
+@font-face {
+  font-family: "Times New Roman";
+  font-size: 10;
+}
+
+body {
+  font-family: "Times New Roman";
+  font-size: 12.5px;
+  height: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.rules {
+  padding-bottom: 1rem;
+  color: black;
+  margin: auto;
+}
+
+button a {
+  color: black;
+  font-family: "Times New Roman";
+  text-decoration: none;
+  size: 10px;
+}
+
+thead {
+  padding: 1rem;
+}
+
+tbody {
+  margin: 1rem;
+}
+
+.dtabel-dalam-dalam {
+  margin: left;
+}
+
+.top1 {
+  font-family: "Times New Roman";
+  font-size: 25px;
+}
+
+warna1 {
+  color: blue;
+}
+
+.rule {
+  margin: 0px 0px 0px 1rem;
+  font-size: 11px;
+  color: black;
+}
+
+  .rules {
+    color: black;
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+}
+
+@media screen and (max-width:800px){
+
+  #maincontent{
+    width: auto;
+    float: none;
+  }
+  #sidebar{
+    width: auto;
+    float: none;
+  }
+}
