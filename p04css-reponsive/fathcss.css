@@ -1,31 +1,3 @@
- html{
-    height: 100%;
-}
-
-select:hover {
-  background-color: blanchedalmond;
-}
-
-.image-headers {
-  width: 100%;
-  height: auto;
-  background-color: red;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.image-headers img {
-  width: 100%;
-  height: auto;
-}
-
-option:hover {
-  background-color: blanchedalmond;
-}
-
-input:hover {
-  background-color: blanchedalmond;
-}
 
 textarea{
   resize: none;
@@ -100,4 +72,32 @@ warna1 {
     width: auto;
     float: none;
   }
+}
+html{
+    height: 100%;
+}
+
+select:hover {
+  background-color: blanchedalmond;
+}
+
+.image-headers {
+  width: 100%;
+  height: auto;
+  background-color: red;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.image-headers img {
+  width: 100%;
+  height: auto;
+}
+
+option:hover {
+  background-color: blanchedalmond;
+}
+
+input:hover {
+  background-color: blanchedalmond;
 }
