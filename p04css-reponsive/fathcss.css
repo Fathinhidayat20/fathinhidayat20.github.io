@@ -1,27 +1,4 @@
-
-}
-.ini-aku {
-    border-collapse: collapse;
-
-}
-
-body {
-    background-color: #cdcdcd;
-}
-.container {
-    width: 50%;
-    margin: auto;
-    background-color: white;
-    padding: 10px;
-}
-.apaitu {
-    margin-left: 20px;
-}
-legend{
-    color: darkred;
-    font-size: 20px;
-}
-tml{
+html{
     font-family: Times New Roman;
      flex-wrap: wrap;
 }
@@ -43,7 +20,30 @@ hr {
 .hayo {
     text-indent: 15px;
     margin-bottom: 0px;
-    color: darkred;
+    color: limegreen;
+}
+.ini-aku {
+    border-collapse: collapse;
+
+}
+
+body {
+    background-color: navajowhite;
+}
+.container {
+    width: 50%;
+    margin: auto;
+    background-color: white;
+    padding: 10px;
+}
+.apaitu {
+    margin-left: 20px;
+}
+legend{
+    color: limegreen;
+    font-size: 20px;
+}
+
 button {
     width: 100%;
     margin-top: 20px;
