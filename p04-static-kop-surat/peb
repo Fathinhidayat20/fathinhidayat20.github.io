@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kop Surat</title>
+    <link rel="stylesheet" href="stylekop.css">
+</head>
+<body>
+    <div class="halaman1">
+    <div class="sampul">
+        <div class="ringkas-logo halaman2 lkiri">
+            <div class="halaman2">
+            <img class="gambar" src="../img/logo.jpg">
+            </div>
+        <div class="stmik-awal">
+                <div class="bold">  SEKOLAH TINGGI MANAJEMEN INFORMATIKA DAN KOMPUTER</div>
+                <div class="qa-ikmi">
+                <div class="color-stmik">STMIK</div>
+                <div class="cirebon">
+                    <div class="color-ikmi"> IKMI </div>
+                    <div class="color-cirebon"> CIREBON </div>
+                    </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="ringkas-logo alamat">
+                <div class="bold">Alamat Kampus :</div>
+                <div>Jl. Perjuangan No. 10B Majasem</div>
+                <div>Kec. Kesambi Kota Cirebon</div>
+                <div>Telp. 0231-490480 - 490481</div>
+                <div><a href="https://ikmi.ac.id" target="_blank">https://ikmi.ac.id</a> Email: <a href="mailto:info@ikmi.ac.id">info@ikmi.ac.id</a></div>
+            </div>
+            <div class="body-sk color-sk"> SK. MENRISTEKDIKTI NO.1/KPT/I/2015 </div>
+            <div class="body-sk color-terakreditasi"> TERAKREDITASI BAN-PT </div>
+        </div>
+        <div class="atas-kop">
+            <h1 class="atas-kop1">Surat Tugas </h1>
+            <div class="nomor-sk">No. 495/A/STMIK-IKMI/IX/2022</div>
+        </div>
+    </div>
+</body>
+</html>
