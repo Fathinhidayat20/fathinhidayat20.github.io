@@ -1,0 +1,75 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JQuery Sliding</title>
+
+    <style>
+html{
+	font-family: 'Montserrat', sans-serif;
+}
+
+body{
+	background-image: url('../img/hh.jpg');
+ 	background-repeat: no-repeat;
+ 	background-size:cover}
+
+.tombol{
+    background-color: darkblue;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 10px;
+    text-decoration: none;
+    align-content: center;
+}
+
+.tombol:hover{
+    background-color: darkred;
+
+}
+.dalem{
+    padding: 10px;
+    display: none;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    margin-left: 10px;
+    text-align: justify;
+}
+.top{
+	align-content: center;
+}
+
+.aku-tengah{
+	background-color: whitesmoke;
+	text-align: center;
+    margin-left: 100px;
+    margin-right: 105px;
+}
+    </style>
+</head>
+<body>
+    <div class="aku-tengah">
+        <div class="top">
+            <div class="tombol">Efek Slide</div>
+        </div>
+        <div class="dalem">jQuery is a JavaScript library designed to simplify HTML DOM tree traversal and manipulation, as well as event handling, CSS animation, and Ajax. It is free, open-source software using the permissive MIT License. As of Aug 2022, jQuery is used by 77% of the 10 million most popular websites (from: Wikipedia).<br><br>Efek slide adalah efek kemunculan sebuah elemen HTML dengan cara turun dari atas kebawah. Untuk membuat efek ini, jQuery menyediakan 2 buah method: slideUp() dan slideDown().<br><br>Metode slide lainnya adalah slideToggle(). Metode ini merupakan sebuah metode yang berfungsi sebagai efek slideDown dan slideUp. Adapun sintak nya adalah sebagai berikut<br><br></div>
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script>
+	$(document).ready(function(){
+    $(".tombol").click(function(){
+    $(".dalem").slideToggle("slow");
+    });
+});
+
+
+
+    </script>
+</body>
+</html>
