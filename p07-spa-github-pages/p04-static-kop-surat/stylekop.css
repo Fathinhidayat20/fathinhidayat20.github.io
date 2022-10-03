@@ -1,0 +1,142 @@
+html{
+    background-image: url('../img/hh.jpg');
+    background-repeat: no-repeat;
+    background-size:cover}
+}
+
+body{
+    font-family: Arial, sans-serif;
+    background-color: navajowhite;
+}
+
+.halaman1{
+    width: 100%;
+    border: 1px solid #ccc;
+    max-width: 21cm;
+    max-height: 29cm;
+    margin: auto;
+    padding: 1cm 1cm 1cm 1cm;
+    background-color: white
+}
+
+
+.halaman2{
+    text-align: center;
+}
+
+.lkiri{
+    display: grid;
+    grid-template-columns: 2cm auto;
+}
+
+.alamat{
+    padding-top: 5px;
+    padding-left: 20px;
+    font-size: 11px;
+    letter-spacing: 1px;
+}
+
+.bold{
+    font-weight: bold;
+    font-size: 10px;
+}
+
+.body-sk{
+    height: 0.6cm;
+    padding-top: 1.5px;
+}
+
+.color-sk{
+    background-color: #c20000;
+}
+
+.color-terakreditasi{
+    background-color: blue;
+}
+
+.color-sk, .color-terakreditasi{
+    text-align: center;
+    color: white;
+}
+.sampul{
+    width: 20cm;
+    height: 3.5cm;
+    display: grid;
+    grid-template-columns: 11cm 8cm;
+}
+
+.gambar{
+    width: 1.8cm;
+    margin-top: 5px;
+}
+
+.atas-kop{
+    width: 19cm;
+    height: 24cm;
+}
+
+.ringkas-logo{
+    height: 2cm;
+}
+
+.stmik-awal{
+    font-size: 11px;
+    letter-spacing: .2px;
+    font-weight: bold;
+    text-align: center;
+    padding-right: 7px;
+    padding-top: 5px;
+}
+
+.color-stmik{
+    font-size: 55px;
+    font-weight: bold;
+    color: #c20000;
+    margin-top: -10px;
+    letter-spacing: 5px;
+    padding-left: 10px;
+}
+
+.color-ikmi{
+    color: #2591ff;
+    font-size: 32px;
+    letter-spacing: 10px;
+    margin-top: -2.5px;
+}
+.color-cirebon{
+    color: black;
+    letter-spacing: 5.5px;
+    font-size: 16px;
+    margin-top: -7px;
+}
+
+.color-ikmi, .color-cirebon{
+    padding-left: 10px;
+    text-align: left;
+    font-weight: bold;
+}
+
+.qa-ikmi{
+    display: grid;
+    grid-template-columns: 5.5cm auto;
+    display: pinkz;
+    margin-top: 8px;
+}
+
+.atas-kop1{
+    text-align: center;
+    margin: 15px 0 0 0;
+    font-size: 16pt;
+    letter-spacing: 3px;
+    text-decoration: underline;
+}
+
+.nomor-sk{
+    text-align: center;
+    font-size: 10pt;
+    margin-top: 5px;
+}
+
+*{
+    box-sizing: border-box;
+}

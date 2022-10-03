@@ -1,0 +1,97 @@
+html{
+    font-family: Times New Roman;
+     flex-wrap: wrap;
+}
+tr th {
+    flex-wrap: wrap;
+}
+
+fieldset {
+    flex-wrap: wrap;
+}
+hr {
+    width: auto;
+    height: 3px;
+    background-color: black;
+}
+.title {
+    line-height: 5px;
+}
+.hayo {
+    text-indent: 15px;
+    margin-bottom: 0px;
+    color: limegreen;
+}
+.ini-aku {
+    border-collapse: collapse;
+
+}
+
+body {
+    background-color: navajowhite;
+}
+.container {
+    width: 50%;
+    margin: auto;
+    background-color: white;
+    padding: 10px;
+}
+.apaitu {
+    margin-left: 20px;
+}
+legend{
+    color: limegreen;
+    font-size: 20px;
+}
+
+button {
+    width: 100%;
+    margin-top: 20px;
+    outline: none;
+    border: none;
+    background-color:gray;
+    padding: 5px;
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+}
+
+@media only screen and (max-width: 400px) {
+    body {
+        margin: 0;
+        padding: 0;
+    }
+    .container {
+        width : 100%;
+        padding : 0px;
+    }
+    .title {
+        font-size: 1rem
+    }
+    td {
+        font-size: 0.7rem
+    }
+    .gol_darah {
+        margin-left : 0px;
+    }
+  }
+
+@media only screen and (max-width: 600px) {
+    body {
+        margin: 0;
+        padding: 0;
+    }
+    .container {
+        width : 100%;
+        padding : 0px;
+    }
+    .title {
+        font-size: 1.2rem
+    }
+    td {
+        font-size: 0.8rem
+    }
+    .gol_darah {
+        margin-left : 5px;
+    }
+  }
