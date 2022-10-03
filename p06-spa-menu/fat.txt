@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SPA Menu</title>
+</head>
+<body>
+<link rel="stylesheet" href="fatincss.css">
+    <nav class="atas">
+    <div class="aku-atas">
+    <span class="tampilan"><a href="../index.html">Rifqi Fathin</span>
+      <ul>
+       <li class="nyala" id="nav_bagan1"><a href="#">Home</a></li>
+       <li class="paeh" id="nav_bagan2"><a href="#" >Produk</a></li>
+       <li class="paeh" id="nav_bagan3"><a href="#" >Layanan</a></li>
+
+      </ul>
+     </div>
+    </nav>
+
+    <br><br><br>
+
+    <div class="bagan" id="bagan1">
+      <br>
+      <h2>Menu Home</h2>
+        <p>Sed mollit commodo excepteur nulla exercitation et eu sunt aliqua aliquip anim in sint sint exercitation deserunt. Aliqua ex ut ut ut enim non anim dolor tempor aute reprehenderit voluptate nisi aute sint.</p>
+    </div>
+    <div class="bagan" id="bagan2">
+        <br>
+      <h2>Menu Produk</h2>
+        <p>Tempor exercitation ea minim ut consequat excepteur nostrud proident ex pariatur. Dolore minim do mollit veniam non laborum ut id voluptate. Nisi velit commodo minim sed pariatur enim sint laborum labore laborum et reprehenderit sed anim aliqua deserunt culpa. Lorem ipsum pariatur commodo dolor anim dolore dolore in occaecat sint eiusmod.</p>   
+    </div>
+    <div class="bagan" id="bagan3">
+        <br>
+      <h2>Menu Layanan</h2>
+        <p>Ut ea in officia enim esse laboris labore laboris minim dolore. Adipisicing ea consequat duis fugiat do ea culpa dolor ut ad ex irure exercitation est ut. Dolore ut esse nulla in labore velit excepteur sint tempor adipisicing sit.</p>   
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
