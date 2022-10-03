@@ -44,13 +44,13 @@
             <p><a onclick="alert('Silahkan Klik OK')" href="p03/tabel.html" class="tbl-biru">P03 HTML Table Sederhana</a></p>
             <p><a onclick="alert('Silahkan Klik OK')" href="p03css/tabel-2.html" class="tbl-biru">P03 HTML Table CSS</a></p>
             <p><a onclick="alert('Silahkan Klik OK')" href="p03jquery/tabel-3.html" class="tbl-biru">PP03 HTML Table JQuery Challenge</a></p>
-            <p><a onclick="alert('Silahkan Klik OK')" href="p03form-lv1/form.html" class="tbl-biru">P03 Formulir Level #1 Basic HTML Form</a></p>
-            <p><a onclick="alert('Silahkan Klik OK')" href="p04css-basic/form2.html" class="tbl-biru">P04 Formulir Level #2 Basic-CSS HTML Form</a></p>
-            <p><a onclick="alert('Silahkan Klik OK')" href="p04css-reponsive/from3.html" class="tbl-biru">P04 Formulir Level #3 Responsive-CSS HTML Form</a></p>
+            <p><a onclick="alert('Silahkan Klik OK')" href="p03form-lv1/form.html" class="tbl-biru">P03 Level#1 Basic HTML Form</a></p>
+            <p><a onclick="alert('Silahkan Klik OK')" href="p04css-basic/form2.html" class="tbl-biru">P04 Level#2 Basic-CSS HTML Form</a></p>
+            <p><a onclick="alert('Silahkan Klik OK')" href="p04css-reponsive/from3.html" class="tbl-biru">P04 Level#3 Rsponsv-CSS HTML Form</a></p>
             <p><a onclick="alert('Silahkan Klik OK')" href="p04-static-kop-surat/index.html" class="tbl-biru">PP04 Kop Surat Static using CSS</a></p>
             <p><a onclick="alert('Silahkan Klik OK')" href="p05-jquery-sliding/index.html" class="tbl-biru">PP04 P05 JQuery Sliding</a></p>
             <p><a onclick="alert('Silahkan Klik OK')" href="p05-jquery-delete/index.html" class="tbl-biru">P05 JQuery FadeOut When Delete</a></p>
-            <p><a onclick="alert('Silahkan Klik OK')" href="p06-spa-menu/index.html" class="tbl-biru">P06 JQuery Add/Remove Class for SPA Menu</a></p>
+            <p><a onclick="alert('Silahkan Klik OK')" href="p06-spa-menu/index.html" class="tbl-biru">P06 JQuery Add/Remove SPA Menu</a></p>
             <p><a onclick="alert('Silahkan Klik OK')" href="p07-spa-github-pages/index.html" class="tbl-biru">P07 P07 SPA Github Pages (UTS)</a></p>
 		</div>
 		<img src="https://img.freepik.com/free-vector/open-source-concept-illustration_114360-3583.jpg?size=626&ext=jpg&ga=GA1.2.1777145683.1664787074"/>
