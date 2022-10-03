@@ -194,4 +194,14 @@ h4 {
 		display: inline-block;
 		float: none;
 	}
+
+	section{
+		display: block;
+	}
+
+	section img {
+		display: block;
+		width: 100%;
+		height: auto;
+	}
 }
