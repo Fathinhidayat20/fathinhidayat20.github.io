@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Rifqi Fathin Hidayat</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<nav>
+		<div class="wrapper">
+			<div class="logo"><a href=''>RifqiFathin</a></div>
+			<div class="menu">
+				<ul>
+					<li><a href="#home">Home</a></li>
+					<li><a href="#tugas">Tugas</a></li>
+					<li><a href="#about">About</a></li>
+					<li><a href="#contact">Contact</a></li>
+					<li><a href=""class="tbl-biru">Sign Up</a></li>
+				</ul>	
+			<div>
+		</div>
+	</nav>
+	<div class="wrapper">
+		<!-- untuk home -->
+		<section id="home">
+			<img src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?size=626&ext=jpg&ga=GA1.2.1777145683.1664787074"/>
+			<div class="kolom">
+					<p class="deksipsi">Belajar Programing(41215312)</p>
+				<h2 class="gerak">Tetap Sehat,<span>Tetap Semangat</span></h2>
+				<p>Jangan Pernah Patah Semangat ,Hal Baik harus Dikejar Kalo Lari akan Terus jadi Bayang-Bayangmu</p>
+				<p><a href=""class="tbl-red">Pelajari Lebih Lanjut</a></p>
+			</div>
+		</section>
+
+
+		<!-- Untuk Tugas -->
+		<section id="Tugas">
+			<div class="kolom">
+			<p1 class ="deksipsi">You Will Need This</p1>
+			<h2> Tugas </h2>
+			<h3> Tugas ini dibuat untuk memenuhi Nilai
+			Tambahan diPmbWars</h3>
+            <p><a onclick="alert('Silahkan Klik OK')" href="p03/tabel.html" class="tbl-biru">P03 HTML Table Sederhana</a></p>
+            <p><a onclick="alert('Silahkan Klik OK')" href="p03css/tabel-2.html" class="tbl-biru">P03 HTML Table CSS</a></p>
+            <p><a onclick="alert('Silahkan Klik OK')" href="p03jquery/tabel-3.html" class="tbl-biru">PP03 HTML Table JQuery Challenge</a></p>
+            <p><a onclick="alert('Silahkan Klik OK')" href="p03form-lv1/form.html" class="tbl-biru">P03 Formulir Level #1 Basic HTML Form</a></p>
+            <p><a onclick="alert('Silahkan Klik OK')" href="p04css-basic/form2.html" class="tbl-biru">P04 Formulir Level #2 Basic-CSS HTML Form</a></p>
+            <p><a onclick="alert('Silahkan Klik OK')" href="p04css-reponsive/from3.html" class="tbl-biru">P04 Formulir Level #3 Responsive-CSS HTML Form</a></p>
+            <p><a onclick="alert('Silahkan Klik OK')" href="p04-static-kop-surat/index.html" class="tbl-biru">PP04 Kop Surat Static using CSS</a></p>
+            <p><a onclick="alert('Silahkan Klik OK')" href="p05-jquery-sliding/index.html" class="tbl-biru">PP04 P05 JQuery Sliding</a></p>
+            <p><a onclick="alert('Silahkan Klik OK')" href="p05-jquery-delete/index.html" class="tbl-biru">P05 JQuery FadeOut When Delete</a></p>
+            <p><a onclick="alert('Silahkan Klik OK')" href="p06-spa-menu/index.html" class="tbl-biru">P06 JQuery Add/Remove Class for SPA Menu</a></p>
+		</div>
+		<img src="https://img.freepik.com/free-vector/open-source-concept-illustration_114360-3583.jpg?size=626&ext=jpg&ga=GA1.2.1777145683.1664787074"/>
+		</section>	
+		<!-- Untuk About -->
+		<section id= "about">
+			<div class= "tengah">
+				<div class = "kolom">
+					<p1 class = "deksipsi">Siapa Si Fathin ?</p1>
+					<h2>About Me</h2>
+					<p1> Rifqi Fathin Hidayat Lahir Di Brebes Pada Tanggal 20 Oktober 2002 
+					Biasa Dipanggil Fathin Anak ke 2 dari 3 Bersaudara , Saya tinggal Dilosari tepatnya
+					saya beragama Islam , Saya Lulusan Smk Telkom Purwokerto Dijurusan Teknik Jaringan Akses lebih tepatnya , Sebenernya saya ga begitu Mahir dibidang ini tapi gapapa saya tetep terus mencoba dan belajar agar saya tidak hanya untuk di satu bidang sajaa.
+					Cukup lah yaa gitu ajaa.
+					punya Wejangan kalo Istilah orang jawa.
+
+					"jangan pernah Berhenti mencoba untuk membuatmu lebih baik Dan jadilah kesalahan untuk belajar kedepanya.Saya fathin Stay Classic" </p1>
+					
+				</div>
+				<div class = "Aboutme">
+					<img src="img/gunung1.jpeg">
+				</div>
+		</section>
+		
+		<div id = "contact">
+			<div class="wrapper">
+				<div class = "footer">
+					<div class="footer-section">
+						<h4>Sosial Media</h4>
+						<p> Instagram : Fathin_hidayattt</p>
+											</div>
+					<div class="footer-section">
+						<h4>Alamat</h4>
+						<p>Jalan Losari Kidul Kecamatan Losari</p>
+					</div>
+					<div class="footer-section">
+						<h4>No Hp</h4>
+						<p> 085726434299</p>
+					</div>
+					
+		<div id = "copyright">
+			<div class="wrapper">
+				&copy;2022. <b>Rifqifathin</b> All Right Reserved.
+		</div>
+		</div>
+
+</body>
