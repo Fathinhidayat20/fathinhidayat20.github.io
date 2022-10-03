@@ -1,0 +1,75 @@
+*{
+    box-sizing: border-box;
+}
+html{
+    font-family: 'Montserrat', sans-serif;
+}
+
+body{
+    background-image: url('../img/tbg.png');
+    background-repeat: no-repeat;
+    background-size:cover
+}
+.atas .hidup{
+    font-weight: bold;
+}
+
+.bagan{
+    background-color: goldenrod;
+    padding: 10px;
+    display: none;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    margin-left: 10px;
+    text-align: justify;
+}
+.bagian-atas{
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.atas{
+    position: fixed;
+    background-color: deepskyblue;
+    top: 0;
+    left: 0;
+    right: 0;
+    transition: all 0.1s ease-in-out;
+    box-shadow:1px 1px 10px;
+    z-index: 99;
+}
+.atas .bagian-atas{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0;
+    transition: all 0.1s ease-in-out;
+}
+
+.atas ul{
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    justify-content: center;
+}
+
+.atas a{
+    color: black;
+    text-decoration: none;
+    padding: 7px 15px;
+    transition: all 0.3s ease-in-out;
+}
+
+.atas a:hover{
+    color: black;
+}
+
+.tampilan{
+    color: black;
+    font-size: 35px;
+    font-weight: bold;
+}
+.tampilan span {
+    font-size: 35px;
+    color: crimson;
+    text-shadow: white;
+}
